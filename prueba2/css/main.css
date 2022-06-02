@@ -1,0 +1,24 @@
+.header {
+    height: 16vh;
+}
+
+.logo {
+    height: 10vh;
+}
+.imagen-hero {
+    width: 100%;
+    height: 50vh;
+}
+
+.texto-2col {
+    column-count: 2;
+    column-gap: 4rem;
+}
+.footer {
+    background-color: #a37903;
+    height: 10vh;
+    width: 90vw;
+}
+.miniyutu {
+    width: 3vw;
+}
